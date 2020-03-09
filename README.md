@@ -25,4 +25,4 @@ optional: download method_2.ipynb as .py file
 ``bokeh serve --show method_2.py``
 
 <br>
-Sample output: ./output/output.png
+Sample output: ./result/output.png
